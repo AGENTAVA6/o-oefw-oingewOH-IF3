@@ -1,0 +1,19 @@
+.body_background{
+    background-image: url("op.jpeg");
+    background-size: cover;;
+}
+.heading{
+    margin: 0px;
+    width: 100%;
+    font-size: 20px;
+}
+#lol{
+    font-size: 15px;
+    color: black;
+}
+
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
